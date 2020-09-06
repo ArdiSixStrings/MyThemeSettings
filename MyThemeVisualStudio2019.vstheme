@@ -1899,7 +1899,7 @@
       </Color>
       <Color Name="Python class">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDF85ED" />
+        <Foreground Type="CT_RAW" Source="FF85BAED" />
       </Color>
       <Color Name="Python module">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1907,11 +1907,11 @@
       </Color>
       <Color Name="Python parameter">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFBCBEC8" />
+        <Foreground Type="CT_RAW" Source="FFFEC867" />
       </Color>
       <Color Name="Python function">
         <Background Type="CT_RAW" Source="FF292D3E" />
-        <Foreground Type="CT_RAW" Source="FF8A95DB" />
+        <Foreground Type="CT_RAW" Source="FF6CA6FF" />
       </Color>
       <Color Name="Python builtin">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1935,7 +1935,7 @@
       </Color>
       <Color Name="Python Interactive - Blue">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="D79292F1" />
+        <Foreground Type="CT_RAW" Source="F06174E8" />
       </Color>
       <Color Name="Python Interactive - Cyan">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1983,7 +1983,7 @@
       </Color>
       <Color Name="Python Interactive - Red">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFF4040" />
+        <Foreground Type="CT_RAW" Source="C4FBC7C7" />
       </Color>
       <Color Name="Python Interactive - White">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1991,7 +1991,7 @@
       </Color>
       <Color Name="Python Interactive - Yellow">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF767600" />
+        <Foreground Type="CT_RAW" Source="FFF1F178" />
       </Color>
       <Color Name="C/C++ User Keywords">
         <Background Type="CT_INVALID" Source="00000000" />
