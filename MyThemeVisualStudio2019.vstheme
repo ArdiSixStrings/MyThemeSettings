@@ -1771,7 +1771,7 @@
       </Color>
       <Color Name="CppGlobalVariableSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFBCBEC8" />
+        <Foreground Type="CT_RAW" Source="FF69C6D7" />
       </Color>
       <Color Name="CppLocalVariableSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1815,7 +1815,7 @@
       </Color>
       <Color Name="CppPropertySemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFBCBEC8" />
+        <Foreground Type="CT_RAW" Source="FF75C2BB" />
       </Color>
       <Color Name="CppEventSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1831,7 +1831,7 @@
       </Color>
       <Color Name="CppFunctionTemplateSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF74531F" />
+        <Foreground Type="CT_RAW" Source="FFBE9F6E" />
       </Color>
       <Color Name="CppNamespaceSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
